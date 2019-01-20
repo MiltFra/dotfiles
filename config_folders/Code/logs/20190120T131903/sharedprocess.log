@@ -1,0 +1,17 @@
+[2019-01-20 13:19:06.429] [sharedprocess] [info] main {"machineId":"7e7e30900b0dba6a5864663370066ccb2459feb84b8c8f83970d1a9d4e71981e"}
+[2019-01-20 13:19:06.503] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-20 13:19:06.519] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-20 13:19:06.528] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-20 13:19:06.543] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-20 13:19:06.544] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-20 13:19:08.161] [sharedprocess] [info] Installing extension: project-manager
+[2019-01-20 13:19:08.175] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-20 13:19:08.776] [sharedprocess] [info] Downloaded extension: project-manager /tmp/fcfb5d85-4703-4787-9303-5fbc61d68efb
+[2019-01-20 13:19:08.822] [sharedprocess] [info] Extracted extension to /home/miltfra/.vscode/extensions/.alefragnani.project-manager-10.3.0: alefragnani.project-manager-10.3.0
+[2019-01-20 13:19:08.822] [sharedprocess] [info] Renamed to /home/miltfra/.vscode/extensions/alefragnani.project-manager-10.3.0
+[2019-01-20 13:19:08.822] [sharedprocess] [info] Installation completed. alefragnani.project-manager-10.3.0
+[2019-01-20 13:19:08.825] [sharedprocess] [info] Extensions installed successfully: alefragnani.project-manager
+[2019-01-20 13:19:46.440] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-01-20 13:20:15.333] [sharedprocess] [info] Scanned user extensions: 8
+[2019-01-20 13:20:15.353] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-20 13:24:06.546] [sharedprocess] [info] Scanned user extensions: 8

@@ -1,0 +1,147 @@
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:5: cannot find package "miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goOJ1JtT/go-code-check github.com/miltfra/tsp
+
+Installing 1 tool at /home/miltfra/go/bin
+  go-outline
+
+Installing 12 tools at /home/miltfra/go/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  guru
+  gorename
+  dlv
+  gocode-gomod
+  godef
+  godef-gomod
+  goreturns
+  golint
+
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).
+Installing github.com/mdempsky/gocode FAILED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/acroca/go-symbols SUCCEEDED
+Installing golang.org/x/tools/cmd/guru SUCCEEDED
+Installing golang.org/x/tools/cmd/gorename SUCCEEDED
+Installing github.com/derekparker/delve/cmd/dlv SUCCEEDED
+Installing github.com/stamblerre/gocode SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing github.com/ianthehat/godef SUCCEEDED
+Installing github.com/sqs/goreturns SUCCEEDED
+Installing golang.org/x/lint/golint SUCCEEDED
+
+1 tools failed to install.
+
+gocode:
+Error: Command failed: /usr/bin/go get -u -v github.com/mdempsky/gocode
+github.com/mdempsky/gocode (download)
+Fetching https://golang.org/x/tools/go/gcexportdata?go-get=1
+Parsing meta tags from https://golang.org/x/tools/go/gcexportdata?go-get=1 (status code 200)
+get "golang.org/x/tools/go/gcexportdata": found meta tag get.metaImport{Prefix:"golang.org/x/tools", VCS:"git", RepoRoot:"https://go.googlesource.com/tools"} at https://golang.org/x/tools/go/gcexportdata?go-get=1
+get "golang.org/x/tools/go/gcexportdata": verifying non-authoritative meta tag
+Fetching https://golang.org/x/tools?go-get=1
+Parsing meta tags from https://golang.org/x/tools?go-get=1 (status code 200)
+golang.org/x/tools (download)
+# cd /home/miltfra/go/src/golang.org/x/tools; git pull --ff-only
+From https://go.googlesource.com/tools
+ * [new branch]      master                -> origin/master
+ * [new branch]      release-branch.go1.10 -> origin/release-branch.go1.10
+ * [new branch]      release-branch.go1.11 -> origin/release-branch.go1.11
+ * [new branch]      release-branch.go1.2  -> origin/release-branch.go1.2
+ * [new branch]      release-branch.go1.3  -> origin/release-branch.go1.3
+ * [new branch]      release-branch.go1.4  -> origin/release-branch.go1.4
+ * [new branch]      release-branch.go1.5  -> origin/release-branch.go1.5
+ * [new branch]      release-branch.go1.6  -> origin/release-branch.go1.6
+ * [new branch]      release-branch.go1.7  -> origin/release-branch.go1.7
+ * [new branch]      release-branch.go1.8  -> origin/release-branch.go1.8
+ * [new branch]      release-branch.go1.9  -> origin/release-branch.go1.9
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+package golang.org/x/tools/go/gcexportdata: exit status 1
+github.com/mdempsky/gocode (download)
+Fetching https://golang.org/x/tools/go/gcexportdata?go-get=1
+Parsing meta tags from https://golang.org/x/tools/go/gcexportdata?go-get=1 (status code 200)
+get "golang.org/x/tools/go/gcexportdata": found meta tag get.metaImport{Prefix:"golang.org/x/tools", VCS:"git", RepoRoot:"https://go.googlesource.com/tools"} at https://golang.org/x/tools/go/gcexportdata?go-get=1
+get "golang.org/x/tools/go/gcexportdata": verifying non-authoritative meta tag
+Fetching https://golang.org/x/tools?go-get=1
+Parsing meta tags from https://golang.org/x/tools?go-get=1 (status code 200)
+golang.org/x/tools (download)
+# cd /home/miltfra/go/src/golang.org/x/tools; git pull --ff-only
+From https://go.googlesource.com/tools
+ * [new branch]      master                -> origin/master
+ * [new branch]      release-branch.go1.10 -> origin/release-branch.go1.10
+ * [new branch]      release-branch.go1.11 -> origin/release-branch.go1.11
+ * [new branch]      release-branch.go1.2  -> origin/release-branch.go1.2
+ * [new branch]      release-branch.go1.3  -> origin/release-branch.go1.3
+ * [new branch]      release-branch.go1.4  -> origin/release-branch.go1.4
+ * [new branch]      release-branch.go1.5  -> origin/release-branch.go1.5
+ * [new branch]      release-branch.go1.6  -> origin/release-branch.go1.6
+ * [new branch]      release-branch.go1.7  -> origin/release-branch.go1.7
+ * [new branch]      release-branch.go1.8  -> origin/release-branch.go1.8
+ * [new branch]      release-branch.go1.9  -> origin/release-branch.go1.9
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=origin/<branch> master
+
+package golang.org/x/tools/go/gcexportdata: exit status 1
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go test -c -i -o /tmp/vscode-goOJ1JtT/go-code-check github.com/miltfra/tsp/status
+
+Installing 1 tool at /home/miltfra/go/bin
+  gocode
+
+Installing 12 tools at /home/miltfra/go/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  guru
+  gorename
+  dlv
+  gocode-gomod
+  godef
+  godef-gomod
+  goreturns
+  golint
+
+Installing github.com/mdempsky/gocode SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).
+Installing github.com/mdempsky/gocode SUCCEEDED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/acroca/go-symbols SUCCEEDED
+Installing golang.org/x/tools/cmd/guru SUCCEEDED
+Installing golang.org/x/tools/cmd/gorename SUCCEEDED
+Installing github.com/derekparker/delve/cmd/dlv SUCCEEDED
+Installing github.com/stamblerre/gocode SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing github.com/ianthehat/godef SUCCEEDED
+Installing github.com/sqs/goreturns SUCCEEDED
+Installing golang.org/x/lint/golint SUCCEEDED
+
+All tools successfully installed. You're ready to Go :).

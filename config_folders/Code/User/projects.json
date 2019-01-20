@@ -1,0 +1,16 @@
+[
+	{
+		"name": "go",
+		"rootPath": "/home/miltfra/go",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "go-miltfra",
+		"rootPath": "/home/miltfra/go/src/github.com/miltfra",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]

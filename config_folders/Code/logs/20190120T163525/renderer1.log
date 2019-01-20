@@ -1,0 +1,6 @@
+[2019-01-20 16:35:26.141] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-20 16:35:45.091] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-20 16:35:49.618] [renderer1] [info] no standard startup: not a new window
+[2019-01-20 16:36:32.509] [renderer1] [info] no standard startup: not a new window
+[2019-01-20 16:41:04.237] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-20 16:58:55.435] [renderer1] [error] A system error occurred (ENOENT: no such file or directory, stat '/home/miltfra/.config/Code/logs/20190120T163525/exthost1/output_logging_20190120T163632/3-Go.log'): Error: ENOENT: no such file or directory, stat '/home/miltfra/.config/Code/logs/20190120T163525/exthost1/output_logging_20190120T163632/3-Go.log'
