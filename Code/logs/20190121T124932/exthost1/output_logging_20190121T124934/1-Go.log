@@ -1,0 +1,205 @@
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:36: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:36: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: cannot use ' ' (type rune) as type string in argument to strings.Split
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: cannot use ' ' (type rune) as type string in argument to strings.Split
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: cannot use Graph literal (type Graph) as type *Graph in return argument
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: cannot use Graph literal (type Graph) as type *Graph in return argument
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: syntax error: unexpected newline, expecting comma or }
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:47: syntax error: unexpected nextValidLine, expecting (
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: syntax error: unexpected newline, expecting comma or }
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:47: syntax error: unexpected nextValidLine, expecting (
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: cannot use Graph literal (type Graph) as type *Graph in return argument
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: cannot use Graph literal (type Graph) as type *Graph in return argument
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:29: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character literal (more than one character)
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: cannot use '\u0000' (type rune) as type string in argument to graph.FromFile
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character literal (more than one character)
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: cannot use '\u0000' (type rune) as type string in argument to graph.FromFile
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character literal (more than one character)
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: cannot use '\u0000' (type rune) as type string in argument to graph.FromFile
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character U+005C '\'
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character literal (more than one character)
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: cannot use '\u0000' (type rune) as type string in argument to graph.FromFile
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character U+005C '\'
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character literal (more than one character)
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: cannot use '\u0000' (type rune) as type string in argument to graph.FromFile
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character U+005C '\'
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character literal (more than one character)
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: cannot use '\u0000' (type rune) as type string in argument to graph.FromFile
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character U+005C '\'
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character literal (more than one character)
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: cannot use '\u0000' (type rune) as type string in argument to graph.FromFile
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: non-octal character in escape sequence: '
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: invalid character literal (more than one character)
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: cannot use '\u0000' (type rune) as type string in argument to graph.FromFile
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: non-octal character in escape sequence: '
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:16: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: g declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:13: g declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:16: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:39: invalid operation: l != "" (mismatched types func(*bufio.Reader) string and string)
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: cannot use l (type func(*bufio.Reader) string) as type string in argument to strings.Split
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:39: invalid operation: l != "" (mismatched types func(*bufio.Reader) string and string)
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: cannot use l (type func(*bufio.Reader) string) as type string in argument to strings.Split
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:39: not enough arguments in call to nextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:39: not enough arguments in call to nextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goap1wWB/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+

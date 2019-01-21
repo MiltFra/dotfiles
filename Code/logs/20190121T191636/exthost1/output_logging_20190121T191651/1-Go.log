@@ -1,0 +1,15 @@
+/home/miltfra/go/src/github.com/Workiva/go-datastructures/bitarray>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/Workiva/go-datastructures/bitarray/bitmap.go:27: package comment should be of the form "Package bitarray ..."
+/home/miltfra/go/src/github.com/Workiva/go-datastructures/bitarray/encoding.go:98: comment on exported function Uint64FromBytes should be of the form "Uint64FromBytes ..."
+/home/miltfra/go/src/github.com/Workiva/go-datastructures/bitarray/encoding.go:117: receiver name ret should be consistent with previous receiver name ba for sparseBitArray
+/home/miltfra/go/src/github.com/Workiva/go-datastructures/bitarray/encoding.go:200: receiver name ret should be consistent with previous receiver name ba for bitArray
+
+/home/miltfra/go/src/github.com/Workiva/go-datastructures/bitarray>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/Workiva/go-datastructures/bitarray/and_test.go:22: cannot find package "github.com/stretchr/testify/assert" in any of:
+
+/home/miltfra/go/src/github.com/Workiva/go-datastructures/bitarray>Finished running tool: /usr/bin/go test -c -i -o /tmp/vscode-goKTeGV1/go-code-check github.com/Workiva/go-datastructures/bitarray
+can't load package: package github.com/stretchr/testify/assert: cannot find package "github.com/stretchr/testify/assert" in any of:
+	/usr/lib/go/src/github.com/stretchr/testify/assert (from $GOROOT)
+	/home/miltfra/go/src/github.com/stretchr/testify/assert (from $GOPATH)
+
+

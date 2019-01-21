@@ -1,0 +1,840 @@
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:16: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: multiple-value strconv.ParseFloat() in single-value context
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: multiple-value strconv.ParseFloat() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/functions.go:35: exported function Stoi should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/functions.go:44: exported function Stof64 should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+/home/miltfra/go/src/github.com/miltfra/tools/functions.go:49: undefined: i
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/functions.go:44: exported function Stof64 should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+/home/miltfra/go/src/github.com/miltfra/tools/functions.go:36: Stoi redeclared in this block
+/home/miltfra/go/src/github.com/miltfra/tools/functions.go:45: Stof64 redeclared in this block
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: multiple-value strconv.ParseFloat() in single-value context
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: multiple-value strconv.ParseFloat() in single-value context
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: s declared and not used
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: from declared and not used
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: to declared and not used
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: weight declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: s declared and not used
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: from declared and not used
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: to declared and not used
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: weight declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: s declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: s declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: undefined: nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: undefined: nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: nextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: undefined: nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: undefined: nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: nextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: cannot refer to unexported name tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: undefined: tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: undefined: nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: nextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: cannot refer to unexported name tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: undefined: tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: undefined: nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: nextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: cannot refer to unexported name tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: undefined: tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: cannot refer to unexported name tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: undefined: tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: cannot refer to unexported name tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tootls
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: cannot refer to unexported name tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: undefined: tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: cannot refer to unexported name tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: undefined: tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: cannot refer to unexported name tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tools.nextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tootls
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: undefined: tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: undefined: tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tootls
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: undefined: tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: undefined: tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tootls
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:5: exported function NextValidLine should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:5: syntax error: mixed named and unnamed function parameters
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:5: exported function NextValidLine should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:3: exported type Reader should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:9: r.ReadLine undefined (type *Reader is pointer to interface, not interface)
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:14: r.ReadLine undefined (type *Reader is pointer to interface, not interface)
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:3: syntax error: unexpected *, expecting name
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:3: exported type Reader should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:9: r.ReadLine undefined (type *Reader is pointer to interface, not interface)
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:14: r.ReadLine undefined (type *Reader is pointer to interface, not interface)
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:4: undefined: Reader
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:17: exported function IsCommented should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/files.go:17: comment on exported function IsCommented should be of the form "IsCommented ..."
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/heap/elements/int.go:5: cannot find package "miltfra/ds/heap" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tools>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: not enough arguments in call to tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tootls
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: not enough arguments in call to tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tootls
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: not enough arguments in call to tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tootls
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: not enough arguments in call to tools.NextValidLine
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: undefined: tootls
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:28: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: exported var DefaultComments should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:30: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:30: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: syntax error: unexpected { after top level declaration
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: syntax error: unexpected { after top level declaration
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: syntax error: unexpected { after top level declaration
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: syntax error: unexpected { after top level declaration
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: syntax error: unexpected { after top level declaration
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: syntax error: unexpected { after top level declaration
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: exported function DefaultComments should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: comment on exported function DefaultComments should be of the form "DefaultComments ..."
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:33: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:33: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: comment on exported function DefaultComments should be of the form "DefaultComments ..."
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:45: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:45: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: comment on exported function DefaultComments should be of the form "DefaultComments ..."
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:49: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:49: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: comment on exported function DefaultComments should be of the form "DefaultComments ..."
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:49: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:49: not enough arguments in call to tools.NextValidLine
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: comment on exported function DefaultComments should be of the form "DefaultComments ..."
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: g declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: g declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: cannot use syscall.Getcwd (type func([]byte) (int, error)) as type string in argument to graph.FromFile
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: cannot use syscall.Getcwd (type func([]byte) (int, error)) as type string in argument to graph.FromFile
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: g declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: g declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: multiple-value TSPBB() in single-value context
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: multiple-value TSPBB() in single-value context
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: cost declared and not used
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: path declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: cost declared and not used
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: path declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: undefined: start
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:19: undefined: start
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:21: undefined: start
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: undefined: start
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:19: undefined: start
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:21: undefined: start
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: undefined: start
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:18: undefined: start
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: file declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:17: file declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: cannot use l (type int) as type float64 in argument to math.Pow
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: cannot use math.Pow(l, 6) (type float64) as type int in argument to status.New
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: cannot use l (type int) as type float64 in argument to math.Pow
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: cannot use math.Pow(l, 6) (type float64) as type int in argument to status.New
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: cannot use math.Pow((<T>)(n), 6) (type float64) as type int in argument to status.New
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: undefined: n
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: cannot use math.Pow((<T>)(n), 6) (type float64) as type int in argument to status.New
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: undefined: n
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: undefined: n
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:13: undefined: n
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use overlay (type [][]bool) as type []int in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use visited (type []bool) as type []int in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use lastVertex (type int) as type []bool in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: too few values in Element literal
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:68: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:76: e.Overlay undefined (type *Element has no field or method Overlay)
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use overlay (type [][]bool) as type []int in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use visited (type []bool) as type []int in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use lastVertex (type int) as type []bool in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: too few values in Element literal
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:68: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:76: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use AdjMatrix (type [][]float64) as type [][]int16 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use overlay (type [][]bool) as type []uint8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use visited (type []bool) as type []uint8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use lastVertex (type int) as type []bool in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: too few values in Element literal
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:50: cannot use e.AdjMatrix[i][k] (type int16) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: invalid operation: e.AdjMatrix[i][j] < min (mismatched types int16 and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:58: cannot use e.AdjMatrix[i][j] (type int16) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:58: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use AdjMatrix (type [][]float64) as type [][]int16 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use overlay (type [][]bool) as type []uint8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use visited (type []bool) as type []uint8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use lastVertex (type int) as type []bool in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: too few values in Element literal
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:50: cannot use e.AdjMatrix[i][k] (type int16) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: invalid operation: e.AdjMatrix[i][j] < min (mismatched types int16 and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:58: cannot use e.AdjMatrix[i][j] (type int16) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:58: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use AdjMatrix (type [][]float64) as type [][]uint16 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use overlay (type [][]bool) as type []uint8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use visited (type []bool) as type []uint8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use lastVertex (type int) as type []bool in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: too few values in Element literal
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:50: cannot use e.AdjMatrix[i][k] (type uint16) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint16 and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:58: cannot use e.AdjMatrix[i][j] (type uint16) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:58: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use AdjMatrix (type [][]float64) as type [][]uint16 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use overlay (type [][]bool) as type []uint8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use visited (type []bool) as type []uint8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: cannot use lastVertex (type int) as type []bool in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:35: too few values in Element literal
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:50: cannot use e.AdjMatrix[i][k] (type uint16) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint16 and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:58: cannot use e.AdjMatrix[i][j] (type uint16) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:58: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint16 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint16) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint16 and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint16) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:67: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:68: cannot use e.AdjMatrix[k][i] (type uint16) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:68: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint16 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint16) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint16 and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint16) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:67: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:68: cannot use e.AdjMatrix[k][i] (type uint16) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:68: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: undefined: j
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: undefined: j
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go12HtLd/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+

@@ -1,0 +1,26 @@
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:16: don't use underscores in Go names; func default_tsp should be defaultTsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type float64 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goMRBb1S/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goMRBb1S/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goMRBb1S/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: multiple-value strconv.ParseFloat() in single-value context
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: multiple-value strconv.Atoi() in single-value context
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: multiple-value strconv.ParseFloat() in single-value context
+

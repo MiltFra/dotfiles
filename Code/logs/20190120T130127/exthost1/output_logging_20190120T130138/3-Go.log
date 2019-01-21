@@ -1,0 +1,58 @@
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goJLHBi0/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:5: cannot find package "miltfra/tools" in any of:
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:4: cannot find package "miltfra/tsp/status" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:5: cannot find package "miltfra/tools" in any of:
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:4: cannot find package "miltfra/tsp/status" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:5: cannot find package "miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goJLHBi0/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:5: cannot find package "miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:5: cannot find package "miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goJLHBi0/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:5: cannot find package "miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:5: cannot find package "miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goJLHBi0/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:5: cannot find package "miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:5: cannot find package "miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goJLHBi0/go-code-check github.com/miltfra/tsp/status
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:7: cannot find package "github.ocm/miltfra/tools" in any of:
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go test -c -i -o /tmp/vscode-goJLHBi0/go-code-check github.com/miltfra/tsp/status
+can't load package: package github.ocm/miltfra/tools: cannot find package "github.ocm/miltfra/tools" in any of:
+	/usr/lib/go/src/github.ocm/miltfra/tools (from $GOROOT)
+	/home/miltfra/go/src/github.ocm/miltfra/tools (from $GOPATH)
+
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go test -c -i -o /tmp/vscode-goJLHBi0/go-code-check github.com/miltfra/tsp/status
+

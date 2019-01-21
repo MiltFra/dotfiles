@@ -1,0 +1,39 @@
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go5evJgs/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use AdjMatrix (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use overlay (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use visited (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use lastVertex (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:34: cannot use Count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:48: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:49: cannot use e.AdjMatrix[i][k] (type uint) as type float64 in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: e.Overlay undefined (type *Element has no field or method Overlay)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:56: invalid operation: e.AdjMatrix[i][j] < min (mismatched types uint and float64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: cannot use e.AdjMatrix[i][j] (type uint) as type float64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:57: too many errors
+
