@@ -2,6 +2,7 @@
     "telemetry.machineId": "7e7e30900b0dba6a5864663370066ccb2459feb84b8c8f83970d1a9d4e71981e",
     "openedPathsList": {
         "workspaces2": [
+            "file:///home/miltfra/dotfiles",
             "file:///home/miltfra/go/src/github.com/miltfra",
             "file:///home/miltfra/go",
             "file:///home/miltfra/documents",
@@ -14,7 +15,6 @@
             "file:///home/miltfra/projects/JASS",
             "file:///home/miltfra/dotfiles/wpg/templates",
             "file:///home/miltfra/dotfiles/fish/functions",
-            "file:///home/miltfra/dotfiles",
             "file:///home/miltfra/documents/2018-12-12-ag",
             "file:///home/miltfra/projects/bwinf37",
             "file:///home/miltfra/projects/advent_of_code",
@@ -39,6 +39,7 @@
             "file:///home/vrelda/projects/bwinf37/bwinf37-runde1"
         ],
         "files2": [
+            "file:///home/miltfra/dotfiles/scripts/startup.sh",
             "file:///home/miltfra/projects/stormbreaker/paths.py",
             "file:///home/miltfra/.notable/notes/Schreibplan.md",
             "file:///home/miltfra/dotfiles/i3/startup.sh",
@@ -83,7 +84,7 @@
             "backupPath": "/home/miltfra/.config/Code/Backups/8f7915fcf1003191da23863caa4dfe74",
             "uiState": {
                 "mode": 1,
-                "x": 0,
+                "x": 1920,
                 "y": 0,
                 "width": 1920,
                 "height": 1080
