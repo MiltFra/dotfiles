@@ -44,14 +44,14 @@ cursor-scroll = ns-resize
 
 [module/pacman]
 type = custom/script
-exec = ~/.config/polybar/updates-arch.sh
+exec = ~/dotfiles/scripts/updates-arch.sh
 interval = 600
 format-background = #<COLOR8>
 label-padding= 3
 
 [module/aur]
 type = custom/script
-exec = ~/.config/polybar/updates-arch-aur.sh
+exec = ~/dotfiles/scripts/updates-arch-aur.sh
 interval = 600
 format-background = #<COLOR8>
 label-padding = 3

@@ -1,14 +1,28 @@
 [
 	{
-		"name": "go",
-		"rootPath": "/home/miltfra/go",
+		"name": "Blog",
+		"rootPath": "/home/miltfra/projects/Blog",
 		"paths": [],
 		"group": "",
 		"enabled": true
 	},
 	{
-		"name": "go-miltfra",
-		"rootPath": "/home/miltfra/go/src/github.com/miltfra",
+		"name": "OASS",
+		"rootPath": "/home/miltfra/projects/OASS",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Notes",
+		"rootPath": "/home/miltfra/.notable/notes",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Go",
+		"rootPath": "/home/miltfra/go",
 		"paths": [],
 		"group": "",
 		"enabled": true

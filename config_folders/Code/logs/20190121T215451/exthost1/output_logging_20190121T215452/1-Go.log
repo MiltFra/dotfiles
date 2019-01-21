@@ -1,6 +1,0 @@
-/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
-
-/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-goXhn6es/go-code-check github.com/miltfra/tools/ds/graph
-
-/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
-
