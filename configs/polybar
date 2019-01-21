@@ -7,7 +7,7 @@ radius = 0
 fixed-center = true
 bottom = false
 margin = 5
-monitor = HDMI-0
+monitor = DVI-0
 offset-y = 5%
 
 background = #121923
@@ -72,7 +72,7 @@ adapter = ADP1
 poll-interval = 5
 label-charging =  %percentage%
 label-charging-padding = 3
-format-charging-background = #2bc9e6
+format-charging-background = #35c8cc
 label-discharging =  %percentage%
 label-discharging-padding = 3
 format-discharging-background = #fe967e
@@ -157,7 +157,7 @@ label-urgent-background = #fe967e
 format-visible = <label-visible>
 label-visible = %name%
 label-visible-padding = 3
-label-visible-background = #2bc9e6
+label-visible-background = #35c8cc
 label-visible-foreground = #121923
 
 [module/wlan]

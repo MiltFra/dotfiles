@@ -3,6 +3,7 @@
     "openedPathsList": {
         "workspaces2": [
             "file:///home/miltfra/go/src/github.com/miltfra",
+            "file:///home/miltfra/Documents",
             "file:///home/miltfra/go",
             "file:///home/miltfra/.config",
             "file:///home/miltfra/dotfiles",
@@ -20,18 +21,18 @@
         "lastActiveWindow": {
             "folderUri": {
                 "$mid": 1,
-                "fsPath": "/home/miltfra/.config",
-                "external": "file:///home/miltfra/.config",
-                "path": "/home/miltfra/.config",
+                "fsPath": "/home/miltfra/go/src/github.com/miltfra",
+                "external": "file:///home/miltfra/go/src/github.com/miltfra",
+                "path": "/home/miltfra/go/src/github.com/miltfra",
                 "scheme": "file"
             },
-            "backupPath": "/home/miltfra/.config/Code/Backups/dc8f1822d5038ff0f13ec76993ae7135",
+            "backupPath": "/home/miltfra/.config/Code/Backups/8f7915fcf1003191da23863caa4dfe74",
             "uiState": {
                 "mode": 1,
                 "x": 1920,
-                "y": 30,
+                "y": 0,
                 "width": 1920,
-                "height": 1050
+                "height": 1080
             }
         }
     },

@@ -7,7 +7,6 @@ termite --name ranger -e ranger &
 /home/miltfra/.config/i3/bg.sh &
 termite --name terminal &
 termite --name terminal &
-fish -c polystart
 /home/vrelda/.config/wpg/wp_init.sh
-sleep 1
-/home/vrelda/.config/wpg/wp_init.sh
+sleep 0.1
+polybar default &> /dev/null &

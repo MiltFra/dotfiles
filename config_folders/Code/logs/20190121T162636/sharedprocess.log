@@ -1,0 +1,14 @@
+[2019-01-21 16:26:39.781] [sharedprocess] [info] main {"machineId":"7e7e30900b0dba6a5864663370066ccb2459feb84b8c8f83970d1a9d4e71981e"}
+[2019-01-21 16:26:39.849] [sharedprocess] [info] Scanned user extensions: 9
+[2019-01-21 16:26:39.864] [sharedprocess] [info] Scanned user extensions: 9
+[2019-01-21 16:26:39.888] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-21 16:26:39.889] [sharedprocess] [info] Scanned system extensions: 71
+[2019-01-21 16:26:40.016] [sharedprocess] [info] Scanned user extensions: 9
+[2019-01-21 16:26:41.334] [sharedprocess] [info] Installing extension: vim
+[2019-01-21 16:26:41.348] [sharedprocess] [info] Scanned user extensions: 9
+[2019-01-21 16:26:44.250] [sharedprocess] [info] Downloaded extension: vim /tmp/bff3e37c-e0be-4320-b6d8-688f6ea112a1
+[2019-01-21 16:26:45.062] [sharedprocess] [info] Extracted extension to /home/miltfra/.vscode/extensions/.vscodevim.vim-1.0.3: vscodevim.vim-1.0.3
+[2019-01-21 16:26:45.062] [sharedprocess] [info] Renamed to /home/miltfra/.vscode/extensions/vscodevim.vim-1.0.3
+[2019-01-21 16:26:45.062] [sharedprocess] [info] Installation completed. vscodevim.vim-1.0.3
+[2019-01-21 16:26:45.079] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2019-01-21 16:27:19.797] [sharedprocess] [info] Starting to clean up unused language packs.

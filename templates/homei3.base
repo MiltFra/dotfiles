@@ -75,7 +75,7 @@ bindsym $mod+Shift+r                            reload
 bindsym $mod+w                                  layout tabbed
 
 bindsym $mod+1                                  exec firefox; workspace $workspace1
-bindsym $mod+2                                  exec fish -c polystart
+bindsym $mod+2                                  exec killall polybar && polybar default
 bindsym $mod+3					exec shell /home/vrelda/.config/wpg/wp_init.sh
 bindsym $mod+4					exec fish -c "set_wpg up14.jpg"
 
@@ -160,10 +160,10 @@ for_window [class="^.*"]                        border pixel 2
 for_window [class="^((?!Spotify).)*$"]		focus 
 focus_follows_mouse no
 ### ASSIGNS
-workspace $workspace1 output $rmonitor
-workspace $workspace2 output $rmonitor
+workspace $workspace1 output $lmonitor
+workspace $workspace2 output $lmonitor
 workspace $workspace3 output $rmonitor
-workspace $workspace4 output $rmonitor
+workspace $workspace4 output $lmonitor
 workspace $workspace5 output $lmonitor
 workspace $workspace6 output $rmonitor
 workspace $workspace7 output $rmonitor

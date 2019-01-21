@@ -1,0 +1,1660 @@
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:21: comment on exported function DefaultComments should be of the form "DefaultComments ..."
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:38: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:38: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:41: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: syntax error: unexpected newline, expecting comma or )
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: syntax error: unexpected newline, expecting comma or )
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:38: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:38: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: syntax error: unexpected default, expecting expression
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: syntax error: unexpected default, expecting expression
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:19: exported function DefaultComments should have comment or be unexported
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:45: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:45: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:19: comment on exported function DefaultComments should be of the form "DefaultComments ..."
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:46: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:46: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:46: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:46: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:46: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:46: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:48: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:48: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:51: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:51: missing return at end of function
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: cannot use i (type int) as type int8 in assignment
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: cannot use i (type int) as type int8 in map index
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:42: cannot use i (type int) as type int8 in assignment
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: cannot use i (type int) as type int8 in map index
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: cannot use i (type int) as type int8 in assignment
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: cannot use i (type int) as type int8 in map index
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:43: cannot use i (type int) as type int8 in assignment
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:44: cannot use i (type int) as type int8 in map index
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: invalid operation: i < n (mismatched types int8 and int)
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: invalid operation: i < n (mismatched types int8 and int)
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: not enough arguments in call to strconv.ParseUint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: invalid operation: i < n (mismatched types int8 and uint64)
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:51: cannot use n (type uint64) as type int in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: not enough arguments in call to strconv.ParseUint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: invalid operation: i < n (mismatched types int8 and uint64)
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:51: cannot use n (type uint64) as type int in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: not enough arguments in call to strconv.ParseUint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: invalid operation: i < n (mismatched types int8 and uint64)
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:51: cannot use n (type uint64) as type int in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: not enough arguments in call to strconv.ParseUint
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:40: invalid operation: i < n (mismatched types int8 and uint64)
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:51: cannot use n (type uint64) as type int in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: multiple-value strconv.Atoi() in single-value context
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:32: multiple-value strconv.Atoi() in single-value context
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:31: assignment mismatch: 2 variables but 1 values
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:31: assignment mismatch: 2 variables but 1 values
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use n (type int8) as type int in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use n (type int8) as type int in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use n (type int) as type int8 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use n (type int) as type int8 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:39: invalid operation: i < n (mismatched types int8 and int)
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use n (type int) as type int8 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use count (type int) as type int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:39: invalid operation: i < n (mismatched types int8 and int)
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:50: cannot use n (type int) as type int8 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use count (type int) as type int8 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use edges (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use lbl2indx (type map[string]int) as type map[string]int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use indx2lbl (type map[int]string) as type map[int8]string in field value
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/examples.go:39: cannot use count (type int) as type int8 in field value
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:34: syntax error: non-declaration statement outside function body
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:34: syntax error: non-declaration statement outside function body
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:47: syntax error: unexpected semicolon, expecting { after for clause
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:47: syntax error: unexpected semicolon, expecting { after for clause
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:45: undefined: l
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:46: undefined: l
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:48: undefined: l
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:45: undefined: l
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:46: undefined: l
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph/graph.go:48: undefined: l
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go vet ./...
+
+/home/miltfra/go/src/github.com/miltfra/tools/ds/graph>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tools/ds/graph
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:14: syntax error: unexpected ) at end of statement
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:14: syntax error: unexpected ) at end of statement
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:12: cannot use int64(0) << 33 (type int64) as type int in argument to status.New
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:12: cannot use int64(0) << 33 (type int64) as type int in argument to status.New
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:26: cannot use N (type int64) as type int in field value
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:26: cannot use N (type int64) as type int in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:86: invalid operation: stat.Length % stat.N (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:87: invalid operation: stat.Length + stat.N (mismatched types int and int64)
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:86: invalid operation: stat.Length % stat.N (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:87: invalid operation: stat.Length + stat.N (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:92: cannot use stat.Length - 1 (type int64) as type int in argument to stat.up
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: invalid operation: c >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:140: invalid operation: c + 1 >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:168: invalid operation: i << 1 + 1 < stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:177: invalid operation: child + 1 < l (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:190: invalid operation: child < stat.Length (mismatched types int and int64)
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:92: cannot use stat.Length - 1 (type int64) as type int in argument to stat.up
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: invalid operation: c >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:140: invalid operation: c + 1 >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:168: invalid operation: i << 1 + 1 < stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:177: invalid operation: child + 1 < l (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:190: invalid operation: child < stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:126: cannot use i (type int) as type int64 in argument to stat.down
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: invalid operation: c >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:140: invalid operation: c + 1 >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:168: invalid operation: i << 1 + 1 < stat.Length (mismatched types int and int64)
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:126: cannot use i (type int) as type int64 in argument to stat.down
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: invalid operation: c >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:140: invalid operation: c + 1 >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:168: invalid operation: i << 1 + 1 < stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:126: cannot use i (type int) as type int64 in argument to stat.down
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: invalid operation: c >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:140: invalid operation: c + 1 >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:171: cannot use i (type int64) as type int in return argument
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:126: cannot use i (type int) as type int64 in argument to stat.down
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: invalid operation: c >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:140: invalid operation: c + 1 >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:171: cannot use i (type int64) as type int in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: invalid operation: c >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:140: invalid operation: c + 1 >= stat.Length (mismatched types int and int64)
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: invalid operation: c >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:140: invalid operation: c + 1 >= stat.Length (mismatched types int and int64)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: cannot use i << 1 + 1 (type int) as type int64 in assignment
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: cannot use i << 1 + 1 (type int) as type int64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:43: invalid operation: st.Length != count (mismatched types int64 and int)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:43: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: cannot use i << 1 + 1 (type int) as type int64 in assignment
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:134: cannot use i << 1 + 1 (type int) as type int64 in assignment
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:43: invalid operation: st.Length != count (mismatched types int64 and int)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:43: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:133: invalid operation: i < len(stat.Arr) (mismatched types int64 and int)
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:133: invalid operation: i < len(stat.Arr) (mismatched types int64 and int)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:43: invalid operation: st.Length != count (mismatched types int64 and int)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:43: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:12: cannot use int64(1) << 32 (type int64) as type int in argument to status.New
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:12: cannot use int64(1) << 32 (type int64) as type int in argument to status.New
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:64: e.Bck undefined (type *Element has no field or method Bck)
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ.go:64: e.Bck undefined (type *Element has no field or method Bck)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp/status
+
+/home/miltfra/go/src/github.com/miltfra/tsp/status>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:29: cannot use path (type []int8) as type []int in argument to actualCost
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:29: cannot use g.Edges (type [][]uint) as type [][]float64 in argument to actualCost
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:29: cannot use path (type []int8) as type []int in argument to actualCost
+/home/miltfra/go/src/github.com/miltfra/tsp/main.go:29: cannot use g.Edges (type [][]uint) as type [][]float64 in argument to actualCost
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:61: invalid operation: sum += adjMatrix[j][path[i]] (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:64: cannot use sum (type float64) as type uint in return argument
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:61: invalid operation: sum += adjMatrix[j][path[i]] (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:64: cannot use sum (type float64) as type uint in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:20: candidate declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:20: candidate declared and not used
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:30: assignment mismatch: 2 variables but 1 values
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:48: too many arguments to return
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:30: assignment mismatch: 2 variables but 1 values
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:48: too many arguments to return
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:30: undefined: getNewPaths
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:48: too many arguments to return
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:30: undefined: getNewPaths
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:48: too many arguments to return
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:48: too many arguments to return
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:48: too many arguments to return
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:47: too many arguments to return
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:47: too many arguments to return
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:47: cannot take the address of status.NewElement(candidate.AdjMatrix, fwd, bck, candidate.LastVertex, candidate.Count + 1)
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:47: cannot use &status.NewElement(candidate.AdjMatrix, fwd, bck, candidate.LastVertex, candidate.Count + 1) (type **status.Element) as type *status.Element in return argument
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:47: cannot take the address of status.NewElement(candidate.AdjMatrix, fwd, bck, candidate.LastVertex, candidate.Count + 1)
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:47: cannot use &status.NewElement(candidate.AdjMatrix, fwd, bck, candidate.LastVertex, candidate.Count + 1) (type **status.Element) as type *status.Element in return argument
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:30: syntax error: unexpected &&, expecting expression
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+/home/miltfra/go/src/github.com/miltfra/tsp/bb.go:30: syntax error: unexpected &&, expecting expression
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /home/miltfra/go/bin/golint
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go vet ./...
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]float64, 1000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([][]bool, 1000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use make([]bool, 1000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:14: cannot use arr[i] (type float64) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use make([]bool, 10000) (type []bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:24: cannot use arr[i] (type int) as type uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]float64, 10000) (type [][]float64) as type [][]uint in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: cannot use make([][]bool, 10000) (type [][]bool) as type []int8 in field value
+/home/miltfra/go/src/github.com/miltfra/tsp/status/statusQ_test.go:47: too many errors
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:14: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:24: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:34: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:41: cannot use g (type [][]float64) as type [][]uint in argument to TSPBB
+/home/miltfra/go/src/github.com/miltfra/tsp/bb_test.go:48: invalid operation: actualCost != cost (mismatched types float64 and uint)
+
+/home/miltfra/go/src/github.com/miltfra/tsp>Finished running tool: /usr/bin/go build -i -o /tmp/vscode-go8jpoFT/go-code-check github.com/miltfra/tsp
+

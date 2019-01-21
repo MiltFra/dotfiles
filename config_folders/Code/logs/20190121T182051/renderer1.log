@@ -1,0 +1,83 @@
+[2019-01-21 18:20:52.355] [renderer1] [info] no standard startup: not just one text editor
+[2019-01-21 18:30:34.593] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 18:30:56.339] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 18:38:49.912] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-21 18:50:25.349] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 18:50:30.944] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 18:50:56.562] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 18:53:54.259] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 19:00:44.999] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 19:02:05.149] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2019-01-21 19:03:11.562] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 19:04:37.778] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
+[2019-01-21 19:05:09.324] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.e.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:484)
+	at new e (/opt/visual-studio-code/resources/app/out/vs/workbench/node/extensionHostProcess.js:357:422)
+	at byteOffsetToDocumentOffset.forEach.decl (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:103:26)
+	at Array.forEach (<anonymous>)
+	at convertToCodeSymbols (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:83:19)
+	at runGoOutline.then.decls (/home/miltfra/.vscode/extensions/ms-vscode.go-0.8.0/out/src/goOutline.js:20:9)
+	at <anonymous>
