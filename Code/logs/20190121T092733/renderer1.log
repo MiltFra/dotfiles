@@ -1,6 +1,0 @@
-[2019-01-21 09:27:36.398] [renderer1] [info] no standard startup: panel is active
-[2019-01-21 09:27:36.415] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
-[2019-01-21 09:27:44.423] [renderer1] [info] no standard startup: not just one text editor
-[2019-01-21 09:27:44.434] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
-[2019-01-21 09:27:53.963] [renderer1] [info] no standard startup: not a new window
-[2019-01-21 09:27:53.976] [renderer1] [error] net::ERR_INTERNET_DISCONNECTED: {1}
