@@ -95,19 +95,7 @@ bindsym $mod+space                              focus mode_toggle
 bindsym $mod+Shift+space                        floating toggle
 bindsym Mod1+Shift+Enter			exec termite
 
-bindsym $mod+Escape                             exec fish -c "notify-send 'Mode Changed' 'Power: lock | exit | shutdown | reboot'", mode $modepower
-
-bindsym XF86AudioRaiseVolume                    exec --no-startup-id pactl set-sink-volume 0 +5% #increase sound volume
-bindsym XF86AudioLowerVolume                    exec --no-startup-id pactl set-sink-volume 0 -5% #decrease sound volume
-bindsym XF86AudioMute                           exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
-
-bindsym XF86MonBrightnessUp                     exec xbacklight -inc 20 # increase screen brightness
-bindsym XF86MonBrightnessDown                   exec xbacklight -dec 20 # decrease screen brightness
-bindsym XF86TouchpadToggle                      exec ~/.i3/toggletouchpad.sh # toggle touchpad
-bindsym XF86AudioPlay                           exec playerctl play
-bindsym XF86AudioPause                          exec playerctl pause
-bindsym XF86AudioNext                           exec playerctl next
-bindsym XF86AudioPrev                           exec playerctl previous
+bindsym $mod+Escape                             exec notify-send 'Mode Changed' 'Power: lock | exit | shutdown | reboot'", mode $modepower
 
 bindsym $mod+Tab exec rofi -show window -show-icons -drun-icon-theme Paper -auto-select
 bindsym $mod+Shift+Tab workspace next
@@ -171,5 +159,5 @@ workspace $workspace8 output $rmonitor
 workspace $workspace9 output $rmonitor
 
 ### STARTUP ###
-exec bash ~/dotfiles/scripts/startup.sh
-exec_always bash ~/dotfiles/scripts/always.sh
+exec ~/dotfiles/scripts/startup.sh
+exec_always ~/dotfiles/scripts/always.sh

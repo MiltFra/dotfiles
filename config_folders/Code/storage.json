@@ -2,6 +2,7 @@
     "telemetry.machineId": "7e7e30900b0dba6a5864663370066ccb2459feb84b8c8f83970d1a9d4e71981e",
     "openedPathsList": {
         "workspaces2": [
+            "file:///home/miltfra/dotfiles/templates",
             "file:///home/miltfra/dotfiles",
             "file:///home/miltfra/go/src/github.com/miltfra",
             "file:///home/miltfra/go",
