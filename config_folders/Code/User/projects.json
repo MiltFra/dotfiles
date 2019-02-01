@@ -26,5 +26,33 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "go-tsp",
+		"rootPath": "/home/miltfra/go/src/github.com/miltfra/tsp",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Documents",
+		"rootPath": "/home/miltfra/documents",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Seminararbeit",
+		"rootPath": "/home/miltfra/projects/Seminararbeit",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "info-aufzeichnungen",
+		"rootPath": "/home/miltfra/projects/info-aufzeichnungen",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]

@@ -2,16 +2,20 @@
     "telemetry.machineId": "7e7e30900b0dba6a5864663370066ccb2459feb84b8c8f83970d1a9d4e71981e",
     "openedPathsList": {
         "workspaces2": [
+            "file:///home/miltfra/projects/Seminararbeit",
+            "file:///home/miltfra/projects/python_ag",
+            "file:///home/miltfra/documents",
+            "file:///home/miltfra/projects/info-aufzeichnungen",
+            "file:///home/miltfra",
+            "file:///home/miltfra/projects/Blog",
+            "file:///home/miltfra/go/src/github.com/miltfra/tsp",
+            "file:///home/miltfra/Desktop",
+            "file:///home/miltfra/go",
+            "file:///home/miltfra/.notable/notes",
+            "file:///home/miltfra/go/src/github.com/miltfra",
             "file:///home/miltfra/dotfiles/templates",
             "file:///home/miltfra/dotfiles",
-            "file:///home/miltfra/go/src/github.com/miltfra",
-            "file:///home/miltfra/go",
-            "file:///home/miltfra/documents",
-            "file:///home/miltfra/projects/Blog",
-            "file:///home/miltfra/projects/Seminararbeit",
             "file:///home/miltfra/projects/stormbreaker",
-            "file:///home/miltfra/.notable/notes",
-            "file:///home/miltfra/projects/python_ag",
             "file:///home/miltfra/projects/OASS",
             "file:///home/miltfra/projects/JASS",
             "file:///home/miltfra/dotfiles/wpg/templates",
@@ -40,6 +44,9 @@
             "file:///home/vrelda/projects/bwinf37/bwinf37-runde1"
         ],
         "files2": [
+            "file:///home/miltfra/Notable%20-%20Export%20ca3a/Travelling%20Salesman%20Problem%20Teil%202%20%28%204%29.html",
+            "file:///home/miltfra/documents/2019-01-24-chemie/chemie.tex",
+            "file:///home/miltfra/dotfiles/templates/xpspolybar.base",
             "file:///home/miltfra/dotfiles/scripts/startup.sh",
             "file:///home/miltfra/projects/stormbreaker/paths.py",
             "file:///home/miltfra/.notable/notes/Schreibplan.md",
@@ -77,18 +84,18 @@
         "lastActiveWindow": {
             "folderUri": {
                 "$mid": 1,
-                "fsPath": "/home/miltfra/go/src/github.com/miltfra",
-                "external": "file:///home/miltfra/go/src/github.com/miltfra",
-                "path": "/home/miltfra/go/src/github.com/miltfra",
+                "fsPath": "/home/miltfra/projects/Seminararbeit",
+                "external": "file:///home/miltfra/projects/Seminararbeit",
+                "path": "/home/miltfra/projects/Seminararbeit",
                 "scheme": "file"
             },
-            "backupPath": "/home/miltfra/.config/Code/Backups/8f7915fcf1003191da23863caa4dfe74",
+            "backupPath": "/home/miltfra/.config/Code/Backups/9264c7ec7e609ed8f703be245676a397",
             "uiState": {
                 "mode": 1,
-                "x": 1920,
-                "y": 0,
+                "x": 0,
+                "y": 30,
                 "width": 1920,
-                "height": 1080
+                "height": 1050
             }
         }
     },
@@ -1146,8 +1153,7 @@
                 "label": "Ctrl+Shift+F"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G G",
-                "isNative": false
+                "label": "Ctrl+Shift+G"
             },
             "workbench.view.debug": {
                 "label": "Alt+U"
