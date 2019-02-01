@@ -28,7 +28,6 @@
 		"enabled": true
 	},
 	{
-<<<<<<< HEAD
 		"name": "go-tsp",
 		"rootPath": "/home/miltfra/go/src/github.com/miltfra/tsp",
 		"paths": [],
@@ -52,10 +51,6 @@
 	{
 		"name": "info-aufzeichnungen",
 		"rootPath": "/home/miltfra/projects/info-aufzeichnungen",
-=======
-		"name": "go-projects",
-		"rootPath": "/home/miltfra/go/src/github.com/miltfra",
->>>>>>> 81ef1c2a1efed64c30d19266e834714bed51062c
 		"paths": [],
 		"group": "",
 		"enabled": true
