@@ -157,7 +157,7 @@ label-urgent-background = #<COLOR1>
 format-visible = <label-visible>
 label-visible = %name%
 label-visible-padding = 3
-label-visible-background = #<COLOR10>
+label-visible-background = #<COLOR7>
 label-visible-foreground = #<COLOR0>
 
 [module/wlan]

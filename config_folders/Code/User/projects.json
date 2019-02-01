@@ -26,5 +26,12 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "go-projects",
+		"rootPath": "/home/miltfra/go/src/github.com/miltfra",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]
