@@ -1054,7 +1054,8 @@
                 "label": "Ctrl+Shift+F"
             },
             "workbench.view.scm": {
-                "label": "Ctrl+Shift+G"
+                "label": "Ctrl+Shift+G G",
+                "isNative": false
             },
             "workbench.view.debug": {
                 "label": "Alt+U"
@@ -1194,26 +1195,33 @@
         "lastActiveWindow": {
             "folderUri": {
                 "$mid": 1,
-                "fsPath": "/home/miltfra/projects/Seminararbeit",
-                "external": "file:///home/miltfra/projects/Seminararbeit",
-                "path": "/home/miltfra/projects/Seminararbeit",
+                "fsPath": "/home/miltfra/go/src/github.com/miltfra/bwinf37-2-1",
+                "external": "file:///home/miltfra/go/src/github.com/miltfra/bwinf37-2-1",
+                "path": "/home/miltfra/go/src/github.com/miltfra/bwinf37-2-1",
                 "scheme": "file"
             },
-            "backupPath": "/home/miltfra/.config/Code/Backups/9264c7ec7e609ed8f703be245676a397",
+            "backupPath": "/home/miltfra/.config/Code/Backups/66a58ea8a898f37d6ee3a57a0aa4d36f",
             "uiState": {
                 "mode": 1,
-                "x": 0,
-                "y": 30,
+                "x": 1920,
+                "y": 0,
                 "width": 1920,
-                "height": 1050
+                "height": 1080
             }
         }
     },
     "openedPathsList": {
         "workspaces2": [
-            "file:///home/miltfra",
-            "file:///home/miltfra/projects/Seminararbeit"
+            "file:///home/miltfra/go/src/github.com/miltfra/bwinf37-2-1",
+            "file:///home/miltfra/projects/seminararbeit-demo",
+            "file:///home/miltfra/projects/Seminararbeit",
+            "file:///home/miltfra/projects/bwinf-37",
+            "file:///home/miltfra/projects/bwinf-37.1",
+            "file:///home/miltfra/projects",
+            "file:///home/miltfra"
         ],
-        "files2": []
+        "files2": [
+            "file:///home/miltfra/projects/seminararbeit-demo/README.md"
+        ]
     }
 }

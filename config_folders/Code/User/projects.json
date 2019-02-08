@@ -54,5 +54,12 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "bwinf-37",
+		"rootPath": "/home/miltfra/projects/bwinf-37",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]
