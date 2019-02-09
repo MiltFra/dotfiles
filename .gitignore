@@ -1,4 +1,11 @@
 config_folders/Code/logs
 config_folders/Code/CachedData
 config_folders/Code/Cache
+config_folders/Code/Cache/*
 config_folders/Code/CachedExtensions
+config_folders/Code/GPUCache
+config_folders/Code/Local Storage
+config_folders/Code/User/workspaceStorage
+config_folders/Code/User/workspaceStorage/*
+config_folders/Code/Backups
+config_folders/Code/storage.json
