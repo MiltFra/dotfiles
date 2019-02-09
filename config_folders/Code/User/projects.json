@@ -61,5 +61,19 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "go-bwinf37.2.1",
+		"rootPath": "/home/miltfra/go",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "bwinf37-2-1",
+		"rootPath": "/home/miltfra/go/src/github.com/miltfra/bwinf37-2-1",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]

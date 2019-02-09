@@ -1,6 +1,6 @@
 {
     "window.menuBarVisibility": "toggle",
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "vscode-icons",
     "material-icon-theme.showWelcomeMessage": false,
     "editor.fontFamily": "Fira Code",
     "editor.fontSize": 20,
@@ -69,7 +69,6 @@
     "zenMode.centerLayout": false,
     "languageServerHaskell.useCustomHieWrapper": true,
     "languageServerHaskell.useCustomHieWrapperPath": "/home/miltfra/.local/bin/hie-wrapper",
-    "workbench.colorTheme": "lucy",
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
         "cpp": "cd $dir; g++ -std=c++17 $fileName -o $fileNameWithoutExt.out; $dir$fileNameWithoutExt.out"
@@ -99,6 +98,7 @@
             "#777777"
         ],
         "Red"
-    ]
+    ],
+    "workbench.colorTheme": "lucy"
     
 }
