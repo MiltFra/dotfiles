@@ -1,0 +1,79 @@
+[
+	{
+		"name": "Blog",
+		"rootPath": "/home/miltfra/projects/Blog",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "OASS",
+		"rootPath": "/home/miltfra/projects/OASS",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Notes",
+		"rootPath": "/home/miltfra/.notable/notes",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Go",
+		"rootPath": "/home/miltfra/go",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "go-tsp",
+		"rootPath": "/home/miltfra/go/src/github.com/miltfra/tsp",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Documents",
+		"rootPath": "/home/miltfra/documents",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "Seminararbeit",
+		"rootPath": "/home/miltfra/projects/Seminararbeit",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "info-aufzeichnungen",
+		"rootPath": "/home/miltfra/projects/info-aufzeichnungen",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "bwinf-37",
+		"rootPath": "/home/miltfra/projects/bwinf-37",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "go-bwinf37.2.1",
+		"rootPath": "/home/miltfra/go",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "bwinf37-2-1",
+		"rootPath": "/home/miltfra/go/src/github.com/miltfra/bwinf37-2-1",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]
