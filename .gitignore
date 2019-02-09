@@ -9,3 +9,6 @@ config_folders/Code/User/workspaceStorage
 config_folders/Code/User/workspaceStorage/*
 config_folders/Code/Backups
 config_folders/Code/storage.json
+config_folders/Code/Network Persistent State
+config_folders/Code/User/globalStorage
+
