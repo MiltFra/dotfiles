@@ -8,8 +8,12 @@
     .search-wrapper input {
         background: #1a1a1e !important;
         color: #aaaaaa !important;
+        fill: #aaaaaa !important;
     }
     .search-button {
+        fill: #aaaaaa !important;
+    }
+    .prefs-button button {
         fill: #aaaaaa !important;
     }
 }
