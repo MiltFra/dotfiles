@@ -37,6 +37,7 @@
         {
             "name": "lualatex",
             "tools": [
+                "lualatex",
                 "lualatex"
             ]
         },
@@ -48,7 +49,7 @@
                 "lualatex",
                 "lualatex"
             ]
-        }
+        },
     ],
     "editor.minimap.enabled": false,
     "explorer.openEditors.visible": 0,
@@ -70,9 +71,6 @@
     "languageServerHaskell.useCustomHieWrapper": true,
     "languageServerHaskell.useCustomHieWrapperPath": "/home/miltfra/.local/bin/hie-wrapper",
     "code-runner.runInTerminal": true,
-    "code-runner.executorMap": {
-        "cpp": "cd $dir; g++ -std=c++17 $fileName -o $fileNameWithoutExt.out; $dir$fileNameWithoutExt.out"
-    },
     "window.zoomLevel": 0,
     "bracket-pair-colorizer-2.colors": [
         "#c3b5d3",
@@ -99,6 +97,53 @@
         ],
         "Red"
     ],
-    "workbench.colorTheme": "lucy"
-    
+    "workbench.colorTheme": "lucy",
+    "vim.useSystemClipboard": true,
+    "vim.hlsearch": true,
+    "editor.cursorStyle": "underline",
+    "vim.useCtrlKeys": false,
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors.normal": "#0e0f15",
+    "vim.statusBarColors.insert": "#c5c5c5",
+    "vim.statusBarColors.visual": "#14161e",
+    "vim.statusBarColors.visualline": "#B48EAD",
+    "vim.statusBarColors.visualblock": "#A3BE8C",
+    "vim.statusBarColors.replace": "#D08770",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#0e0f15",
+        "statusBar.noFolderBackground": "#0e0f15",
+        "statusBar.debuggingBackground": "#0e0f15"
+    },
+    "better-comments.tags": [
+        {
+            "tag": "!",
+            "color": "#d31d5d",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "todo",
+            "color": "#1d5dd3",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "//",
+            "color": "#474747",
+            "strikethrough": true,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "?",
+            "color": "#5dd31d",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        },
+        {
+            "tag": "*",
+            "color": "#98C379",
+            "strikethrough": false,
+            "backgroundColor": "transparent"
+        }
+    ]
 }

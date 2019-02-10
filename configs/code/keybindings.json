@@ -168,11 +168,15 @@
         "command": "-extension.CompileRun"
     },
     {
-        "key": "shift+alt+enter",
+        "key": "alt+d",
         "command": "projectManager.listProjects"
     },
     {
         "key": "shift+alt+p",
         "command": "-projectManager.listProjects"
+    },
+    {
+        "key": "alt+",
+        "command": "workbench.action.toggleMenuBar"
     }
 ]
