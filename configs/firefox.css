@@ -1,0 +1,15 @@
+@-moz-document url("about:newtab") {  
+    body {
+        background-color: #2a2a2e !important;
+    }
+    .wordmark {
+        fill: #aaaaaa !important;
+    }
+    .search-wrapper input {
+        background: #1a1a1e !important;
+        color: #aaaaaa !important;
+    }
+    .search-button {
+        fill: #aaaaaa !important;
+    }
+}
