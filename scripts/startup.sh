@@ -9,5 +9,5 @@ termite --name ranger -e ranger &
 termite --name terminal &
 termite --name terminal &
 /home/vrelda/.config/wpg/wp_init.sh
-sleep 0.1
+sleep 1
 polybar default &> /dev/null &

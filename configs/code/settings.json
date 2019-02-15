@@ -110,9 +110,9 @@
     "vim.statusBarColors.visualblock": "#A3BE8C",
     "vim.statusBarColors.replace": "#D08770",
     "workbench.colorCustomizations": {
-        "statusBar.background": "#c5c5c5",
-        "statusBar.noFolderBackground": "#c5c5c5",
-        "statusBar.debuggingBackground": "#c5c5c5"
+        "statusBar.background": "#0e0f15",
+        "statusBar.noFolderBackground": "#0e0f15",
+        "statusBar.debuggingBackground": "#0e0f15"
     },
     "better-comments.tags": [
         {
