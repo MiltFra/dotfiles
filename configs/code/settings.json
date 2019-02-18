@@ -2,7 +2,7 @@
     "window.menuBarVisibility": "toggle",
     "workbench.iconTheme": "vscode-icons",
     "material-icon-theme.showWelcomeMessage": false,
-    "editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "Input Mono",
     "editor.fontSize": 20,
     "latex-workshop.latex.tools": [
         {
@@ -59,7 +59,7 @@
     "explorer.confirmDragAndDrop": false,
     "editor.fontLigatures": true,
     "color-highlight.markerType": "outline",
-    "workbench.sideBar.location": "right",
+    "workbench.sideBar.location": "left",
     "terminal.integrated.rendererType": "dom",
     "terminal.integrated.fontSize": 18,
     "workbench.activityBar.visible": true,

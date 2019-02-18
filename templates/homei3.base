@@ -120,11 +120,11 @@ set $c6 #<COLOR10>
 set $c7 #<COLOR0>
 
 # class                 border  backgr. text indicator child_border
-client.focused          $c4     $c4     $c7  $c4       $c4
-client.focused_inactive $c5     $c3     $c1  $c5       $c5
-client.unfocused        $c5     $c3     $c1  $c5       $c5
-client.urgent           $c6     $c6     $c5  $c6       $c6
-client.placeholder      $c5     $c5     $c1  $c5       $c5
+client.focused          $c4     $c7     $c1  $c7       $c4
+client.focused_inactive $c5     $c7     $c1  $c7       $c5
+client.unfocused        $c5     $c7     $c1  $c7       $c5
+client.urgent           $c6     $c6     $c5  $c7       $c6
+client.placeholder      $c5     $c5     $c1  $c7       $c5
 
 client.background       $c5
 

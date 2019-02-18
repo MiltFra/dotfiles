@@ -10,13 +10,13 @@ margin = 5
 monitor = DVI-0
 offset-y = 5%
 
-background = #10151e
-foreground = #fffff2
+background = #b31b1d24
+foreground = #fffffb
 
 line-size = 3
 
 border-size = 0
-border-color = #dd10151e
+border-color = #dd1b1d24
 
 padding-left = 0
 padding-right = 0
@@ -46,14 +46,14 @@ cursor-scroll = ns-resize
 type = custom/script
 exec = ~/dotfiles/scripts/updates-arch.sh
 interval = 600
-format-background = #1d2738
+format-background = #b31b1d24
 label-padding= 3
 
 [module/aur]
 type = custom/script
 exec = ~/dotfiles/scripts/updates-arch-aur.sh
 interval = 600
-format-background = #1d2738
+format-background = #b31b1d24
 label-padding = 3
 
 [module/backlight]
@@ -61,7 +61,7 @@ type = internal/xbacklight
 enable-scroll = true
 label = %percentage%
 format =  <label>
-format-background = #1d2738
+format-background = #b31b1d24
 format-padding = 3
 
 [module/battery]
@@ -72,25 +72,25 @@ adapter = ADP1
 poll-interval = 5
 label-charging =  %percentage%
 label-charging-padding = 3
-format-charging-background = #bcefbc
+format-charging-background = #b9ff35
 label-discharging =  %percentage%
 label-discharging-padding = 3
-format-discharging-background = #A58E67
+format-discharging-background = #9c2b1d
 label-full =  100
 label-full-padding =3
-format-full-background = #1d2738
+format-full-background = #b31b1d24
 
 [module/pulseaudio]
 type = internal/pulseaudio
 sink = alsa_output.pci-0000_12_00.3.analog-stereo
 use-ui-max = true
 interval = 5
-format-volume-background = #e6ded0
+format-volume-background = #eceae6
 format-volume-padding = 3
 format-volume = <ramp-volume> <label-volume>
 format-muted-padding = 3
-format-muted-background = #1d2738
-format-volume-foreground = #10151e
+format-muted-background = #b31b1d24
+format-volume-foreground = #1b1d24
 format-muted = <label-muted>
 label-volume = %percentage%
 label-muted =  --
@@ -103,14 +103,14 @@ ramp-volume-2 = 
 type = internal/xwindow
 label = %title:0:50:...%
 label-padding = 1
-format-background = #1d2738
+format-background = #b31b1d24
 
 [module/xkeyboard]
 type = internal/xkeyboard
 blacklist-0 = num lock
 blacklist-1 = caps lock
 
-format-background = #1d2738
+format-background = #b31b1d24
 
 label-layout =   %layout%
 label-layout-padding = 3
@@ -137,28 +137,28 @@ ws-icon-default=
 format-focused = <label-focused>
 label-focused = %name%
 label-focused-padding = 3
-label-focused-background = #fffff2
-label-focused-foreground = #10151e
+label-focused-background = #fffffb
+label-focused-foreground = #1b1d24
 
 format-unfocused = <label-unfocused>
 label-unfocused = %name%
 label-unfocused-padding = 3
-label-unfocused-background = #1d2738
+label-unfocused-background = #b31b1d24
 
-label-mode-background = #A58E67
+label-mode-background = #9c2b1d
 label-mode = %mode%
 label-mode-padding = 3
 
 format-urgent = <label-urgent>
 label-urgent = %name%
 label-urgent-padding = 3
-label-urgent-background = #A58E67
+label-urgent-background = #9c2b1d
 
 format-visible = <label-visible>
 label-visible = %name%
 label-visible-padding = 3
-label-visible-background = #e6ded0
-label-visible-foreground = #10151e
+label-visible-background = #eceae6
+label-visible-foreground = #1b1d24
 
 [module/wlan]
 type = internal/network
@@ -168,15 +168,15 @@ label-connected =  %essid%
 format-connected-padding = 3
 
 format-disconnected =  --
-format-disconnected-background = #1d2738
-format-connected-background = #e6ded0
-format-connected-foreground = #10151e
+format-disconnected-background = #b31b1d24
+format-connected-background = #eceae6
+format-connected-foreground = #1b1d24
 format-disconnected-padding = 3
 
 [module/date]
 type = internal/date
 interval = 1
-format-foreground = #fffff2
+format-foreground = #fffffb
 date =" %m/%d"
 date-alt = " %Y/%m/%d"
 
