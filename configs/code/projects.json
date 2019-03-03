@@ -40,5 +40,12 @@
 		"paths": [],
 		"group": "",
 		"enabled": true
+	},
+	{
+		"name": "fastarr",
+		"rootPath": "/home/miltfra/go/src/github.com/miltfra/fastarr",
+		"paths": [],
+		"group": "",
+		"enabled": true
 	}
 ]

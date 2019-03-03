@@ -10,7 +10,7 @@ margin = 5
 monitor = DVI-0
 offset-y = 5%
 
-background = #b31b1d24
+background = #1b1d24
 foreground = #fffffb
 
 line-size = 3
@@ -46,14 +46,14 @@ cursor-scroll = ns-resize
 type = custom/script
 exec = ~/dotfiles/scripts/updates-arch.sh
 interval = 600
-format-background = #b31b1d24
+format-background = #1b1d24
 label-padding= 3
 
 [module/aur]
 type = custom/script
 exec = ~/dotfiles/scripts/updates-arch-aur.sh
 interval = 600
-format-background = #b31b1d24
+format-background = #1b1d24
 label-padding = 3
 
 [module/backlight]
@@ -61,7 +61,7 @@ type = internal/xbacklight
 enable-scroll = true
 label = %percentage%
 format =  <label>
-format-background = #b31b1d24
+format-background = #1b1d24
 format-padding = 3
 
 [module/battery]
@@ -78,7 +78,7 @@ label-discharging-padding = 3
 format-discharging-background = #9c2b1d
 label-full =  100
 label-full-padding =3
-format-full-background = #b31b1d24
+format-full-background = #1b1d24
 
 [module/pulseaudio]
 type = internal/pulseaudio
@@ -89,7 +89,7 @@ format-volume-background = #eceae6
 format-volume-padding = 3
 format-volume = <ramp-volume> <label-volume>
 format-muted-padding = 3
-format-muted-background = #b31b1d24
+format-muted-background = #1b1d24
 format-volume-foreground = #1b1d24
 format-muted = <label-muted>
 label-volume = %percentage%
@@ -103,14 +103,14 @@ ramp-volume-2 = 
 type = internal/xwindow
 label = %title:0:50:...%
 label-padding = 1
-format-background = #b31b1d24
+format-background = #1b1d24
 
 [module/xkeyboard]
 type = internal/xkeyboard
 blacklist-0 = num lock
 blacklist-1 = caps lock
 
-format-background = #b31b1d24
+format-background = #1b1d24
 
 label-layout =   %layout%
 label-layout-padding = 3
@@ -143,7 +143,7 @@ label-focused-foreground = #1b1d24
 format-unfocused = <label-unfocused>
 label-unfocused = %name%
 label-unfocused-padding = 3
-label-unfocused-background = #b31b1d24
+label-unfocused-background = #1b1d24
 
 label-mode-background = #9c2b1d
 label-mode = %mode%
@@ -168,7 +168,7 @@ label-connected =  %essid%
 format-connected-padding = 3
 
 format-disconnected =  --
-format-disconnected-background = #b31b1d24
+format-disconnected-background = #1b1d24
 format-connected-background = #eceae6
 format-connected-foreground = #1b1d24
 format-disconnected-padding = 3

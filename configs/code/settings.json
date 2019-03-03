@@ -3,7 +3,7 @@
     "workbench.iconTheme": "vscode-icons",
     "material-icon-theme.showWelcomeMessage": false,
     "editor.fontFamily": "Input Mono",
-    "editor.fontSize": 20,
+    "editor.fontSize": 18,
     "latex-workshop.latex.tools": [
         {
             "name": "lualatex",
@@ -62,7 +62,7 @@
     "workbench.sideBar.location": "left",
     "terminal.integrated.rendererType": "dom",
     "terminal.integrated.fontSize": 18,
-    "workbench.activityBar.visible": true,
+    "workbench.activityBar.visible": false,
     "workbench.editor.openPositioning": "left",
     "search.location": "sidebar",
     "latex-workshop.showContextMenu": true,
