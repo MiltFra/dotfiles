@@ -97,7 +97,7 @@
         ],
         "Red"
     ],
-    "workbench.colorTheme": "lucy",
+    "workbench.colorTheme": "One Monokai",
     "vim.useSystemClipboard": true,
     "vim.hlsearch": true,
     "editor.cursorStyle": "underline",
@@ -145,5 +145,8 @@
             "strikethrough": false,
             "backgroundColor": "transparent"
         }
-    ]
+    ],
+    "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+    "markdown-preview-enhanced.mermaidTheme": "default",
+    "markdown-preview-enhanced.scrollSync": false
 }
