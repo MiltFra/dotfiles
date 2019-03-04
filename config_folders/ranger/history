@@ -1,6 +1,3 @@
-rename mcu
-rename house_of_cards
-rename 2018-10-03-id.pdf
 mkdir  IELTS
 rename Downlod
 rename ielts
@@ -48,3 +45,6 @@ rename lukasm-jannes.txt
 open_with 
 
 delete
+mkdir  avatar
+mkdir  the_last_airbender
+mkdir  the_legend_of_korra

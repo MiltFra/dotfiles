@@ -11,5 +11,6 @@ termite --name ranger -e ranger &
 termite --name terminal &
 termite --name terminal &
 /home/vrelda/.config/wpg/wp_init.sh
+blurwal -m 0 &> /dev/null &
 sleep 1
 polybar default &> /dev/null &
