@@ -11,7 +11,7 @@ monitor = DVI-0
 offset-y = 5%
 
 background = #000000
-foreground = #ffffff
+foreground = #ededed
 
 line-size = 3
 
@@ -85,7 +85,7 @@ label-charging-padding = 3
 format-charging-background = #76c5a4
 label-discharging =  %percentage%
 label-discharging-padding = 3
-format-discharging-background = #c05c7a
+format-discharging-background = #fb7da7
 label-full =  100
 label-full-padding =3
 format-full-background = #000000
@@ -95,7 +95,7 @@ type = internal/pulseaudio
 sink = 
 use-ui-max = true
 interval = 1
-format-volume-background = #dbdbdb
+format-volume-background = #e8e8e8
 format-volume-padding = 3
 format-volume = <ramp-volume> <label-volume>
 format-muted-padding = 3
@@ -147,7 +147,7 @@ ws-icon-default=
 format-focused = <label-focused>
 label-focused = %name%
 label-focused-padding = 3
-label-focused-background = #ffffff
+label-focused-background = #ededed
 label-focused-foreground = #000000
 
 format-unfocused = <label-unfocused>
@@ -155,19 +155,19 @@ label-unfocused = %name%
 label-unfocused-padding = 3
 label-unfocused-background = #000000
 
-label-mode-background = #c05c7a
+label-mode-background = #fb7da7
 label-mode = %mode%
 label-mode-padding = 3
 
 format-urgent = <label-urgent>
 label-urgent = %name%
 label-urgent-padding = 3
-label-urgent-background = #c05c7a
+label-urgent-background = #fb7da7
 
 format-visible = <label-visible>
 label-visible = %name%
 label-visible-padding = 3
-label-visible-background = #dbdbdb
+label-visible-background = #e8e8e8
 label-visible-foreground = #000000
 
 [module/wlan]
@@ -179,14 +179,14 @@ format-connected-padding = 3
 
 format-disconnected =  --
 format-disconnected-background = #000000
-format-connected-background = #dbdbdb
+format-connected-background = #e8e8e8
 format-connected-foreground = #000000
 format-disconnected-padding = 3
 
 [module/date]
 type = internal/date
 interval = 1
-format-foreground = #ffffff
+format-foreground = #ededed
 date =" %m/%d"
 date-alt = " %Y/%m/%d"
 

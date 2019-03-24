@@ -1,16 +1,9 @@
-mkdir  IELTS
-rename Downlod
-rename ielts
-rename pictures
-rename documents
-rename 2018-10-03-ielts
 rename 2018-10-03-dell
 search lol
 rename vintage8.jpg
 search up20
 shell 
 search abst8
-mkdir  
 search vis
 search mdir
 mkdir  colors
@@ -42,9 +35,16 @@ search lukas
 rename lukasm-eliash.txt
 rename lukasm-marieke.txt
 rename lukasm-jannes.txt
-open_with 
 
 delete
 mkdir  avatar
 mkdir  the_last_airbender
 mkdir  the_legend_of_korra
+shell echo $EDITOR > test
+search mono
+q
+mkdir  
+mkdir  test
+open_with 
+search lis
+search milt

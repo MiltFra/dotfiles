@@ -1,0 +1,2 @@
+#/usr/bin/zsh
+termite -e "zsh -c ranger"

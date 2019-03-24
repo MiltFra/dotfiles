@@ -5,11 +5,12 @@ insync start &> /dev/null &
 insync hide &> /dev/null &
 megasync &> /dev/null &
 i3-msg "workspace 2:; append_layout ~/dotfiles/scripts/ws2.json" 
-termite --name htop -e htop &
-termite --name ranger -e ranger & 
 /home/miltfra/.config/i3/bg.sh &
 termite --name terminal &
 termite --name terminal &
 /home/vrelda/.config/wpg/wp_init.sh
+termite --name htop -e htop &
+termite --name ranger -e "ranger" & 
+/home/miltfra/.config/wpg/wp_init.sh &> /dev/null &
 sleep 1
 polybar default &> /dev/null &
