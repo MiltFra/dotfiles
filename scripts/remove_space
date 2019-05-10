@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+import os, sys
+
+def short(f):
+    s = f.split(' ')
+    return ''.join(s)
+
+files = os.listdir(sys.argv[1])
+for f in files:
+    os.rename(f, short(f))

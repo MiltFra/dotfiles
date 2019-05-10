@@ -7,7 +7,7 @@ radius = 0
 fixed-center = true
 bottom = false
 margin = 5
-monitor = DVI-0
+monitor = HDMI-A-0
 offset-y = 5%
 
 background = #000000

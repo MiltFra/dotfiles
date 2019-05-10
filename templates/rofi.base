@@ -1,19 +1,19 @@
 rofi.modi:                           window,run,ssh
 rofi.m:				     0
-rofi.width:                          50
-rofi.lines:                          12
+rofi.width:                          30
+rofi.lines:                          3
 rofi.columns:                        4
 rofi.font:                           Input Mono 12
-rofi.color-normal:                   #<COLOR0>, #<COLOR15>, #<COLOR0>, #<COLOR11>, #<COLOR0>
-rofi.color-urgent:                   #<COLOR0>, #<COLOR8>, #<COLOR7>, #<COLOR1>, #<COLOR8>
-rofi.color-active:                   #<COLOR0>, #<COLOR8>, #<COLOR7>, #<COLOR1>, #<COLOR8>
-rofi.color-window:                   #<COLOR0>, #<COLOR1>, #<COLOR13>
-rofi.bw:                             2
+rofi.color-normal:                   #cc000000, #ffffff, #cc000000, #<COLOR11>, #cc000000
+rofi.color-urgent:                   #cc000000, #000000,  #<COLOR7>, #<COLOR1>,  #cc000000
+rofi.color-active:                   #cc000000, #000000,  #<COLOR7>, #aaffffff,  #cc000000
+rofi.color-window:                   #cc000000, #88000000,  #<COLOR13>
+rofi.bw:                             0
 rofi.location:                       0
-rofi.padding:                        10
-rofi.yoffset:                        0
+rofi.padding:                        20
+rofi.yoffset:                        -80
 rofi.xoffset:                        0
-rofi.fixed-num-lines:                true
+rofi.fixed-num-lines:                false
 rofi.terminal:                       rofi-sensible-terminal
 rofi.ssh-client:                     ssh
 rofi.ssh-command:                    {terminal} -e {ssh-client} {host}
@@ -26,4 +26,6 @@ rofi.kb-mode-next:                   Shift+Right,Control+Tab,Alt+l
 rofi.kb-mode-previous:               Shift+Left,Control+Shift+Tab,Alt+h
 rofi.kb-row-up:                      Up,Control+p,Shift+Tab,Shift+ISO_Left_Tab,Alt+k
 rofi.kb-row-down:                    Down,Control+n,Alt+j
-rofi.window
+rofi.window-format:                  {n} 
+rofi.monitor:                        primary
+rofi.fake-transparency:              true
